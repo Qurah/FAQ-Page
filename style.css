@@ -228,8 +228,8 @@ margin-top: 50px;
 .social-media{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 2rem;
-    margin: 50px 700px;
+    gap: 1rem;
+    margin: 50px 690px;
     
 }
 .social-media img{
@@ -237,7 +237,7 @@ margin-top: 50px;
     height: 48px;
     width: 48px;
     border-radius: 50px;
-    padding: 20px;
+    
 }
 
 footer p{
